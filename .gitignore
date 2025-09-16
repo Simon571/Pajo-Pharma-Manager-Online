@@ -1,0 +1,14 @@
+﻿node_modules/
+.next/
+dist/
+build/
+firebase-debug.log
+.firebase/
+functions/node_modules/
+functions/lib/
+.env
+.env.*
+*.env
+serviceAccount*.json
+.vscode/
+.DS_Store
